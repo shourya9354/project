@@ -1,17 +1,23 @@
-Backend Authentication API
+# 🚀 User Authentication API
 
-A beginner‑friendly backend project built with Node.js, Express, and PostgreSQL. This project implements user authentication with secure password hashing and environment variable support. Perfect for freshers who want to showcase real‑world backend skills.
+A backend authentication system built using **Node.js** and **Express.js** that allows users to **Register, Login, and Access protected profile data** using JWT-based authentication.
 
- *Features*
-> User Register & Login
-> Password hashing using bcrypt
-> Authentication using JWT (JSON Web Token)
-> Environment variables with dotenv (Ignored)
-> RESTful API structure
-> PostgreSQL database integration
+---
 
->> *Tech Stack*
-> Backend: Node.js, Express.js
-> Database: PostgreSQL
-> Security: bcrypt, JWT
-> Tools: Git, Postman
+# Features
+- User Registration
+- User Login
+- JWT Authentication
+- Protected Profile Route
+- Password Hashing using bcrypt
+- RESTful API structure
+- Environment Variables Support
+
+---
+
+# Tech Stack
+- **Backend:** Node.js, Express.js
+- **Database:** PostgreSQL / MySQL
+- **Authentication:** JWT (JSON Web Token)
+- **Security:** bcrypt
+- **Tools:** Postman, VS Code
