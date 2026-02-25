@@ -1,4 +1,4 @@
-# 🚀 User Authentication API
+# User Authentication API
 
 A backend authentication system built using **Node.js** and **Express.js** that allows users to **Register, Login, and Access protected profile data** using JWT-based authentication.
 
